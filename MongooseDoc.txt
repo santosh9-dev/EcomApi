@@ -1,0 +1,6 @@
+EcomAPI
+user name:-  santosh
+password:- 0D4fkG1I9CcGCjxQ
+
+
+mongodb+srv://santosh:<password>@ecomapi.58e6yiw.mongodb.net/?retryWrites=true&w=majority
